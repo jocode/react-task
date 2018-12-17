@@ -1,0 +1,34 @@
+{
+    "tasks": [
+        {
+            "title": "Tarea 1",
+            "autor": "Johan Mosquera",
+            "description": "lorem ipsum",
+            "priority": "low"
+        },
+        {
+            "title": "Tarea 2",
+            "autor": "Johan Mosquera",
+            "description": "lorem ipsum",
+            "priority": "medium"
+        },
+        {
+            "title": "Tarea 3",
+            "autor": "Pepito Perez",
+            "description": "lorem ipsum",
+            "priority": "high"
+        },
+        {
+            "title": "Tarea 4",
+            "autor": "Pepito Perez",
+            "description": "lorem ipsum",
+            "priority": "medium"
+        },
+        {
+            "title": "Tarea 5",
+            "autor": "Pepito Perez",
+            "description": "lorem ipsum",
+            "priority": "low"
+        }
+    ]
+}
